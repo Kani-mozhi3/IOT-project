@@ -1,17 +1,17 @@
 # Public Transport Optimization via IoT and Machine Learning
 This project focuses on enhancing public transportation efficiency by integrating IoT sensors and Machine Learning algorithms to monitor ridership, track vehicle locations, and provide accurate arrival time predictions.
 
-##🚀 Project Overview
+## 🚀 Project Overview
 The primary goal is to provide real-time transit information to the public through a digital platform, significantly improving the quality and reliability of public transportation services.
 
-Key Objectives:
+## Key Objectives:
 
 Real-Time Tracking: Deploying GPS and passenger counters to monitor vehicles and ridership levels.
 Predictive Analytics: Using historical data and traffic conditions to improve the accuracy of arrival time predictions.
 Operational Efficiency: Optimizing fuel consumption and reducing idle time through smart routing and scheduling.
 Environmental Impact: Lowering carbon emissions and noise pollution to meet corporate social responsibility goals.
 
-🛠 Tech Stack & Methodology
+## 🛠 Tech Stack & Methodology
 
 Hardware Integration: IoT sensors including GPS, passenger counters, and RFID tags.
 Programming & Tools: Python for system integration and web-based platforms for data display.
