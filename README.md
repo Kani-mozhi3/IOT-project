@@ -24,13 +24,13 @@ Deep Autoencoder (DAN) & Deep Belief Network (DBN): Used to study compressed rep
 Communication Protocols: Deployment of MQTT, WebSockets, and Webhooks for seamless data transmission between vehicles and dashboards.
 
 
-📊 Performance Metrics
+## 📊 Performance Metrics
 The system's performance is rigorously assessed using the following metrics to ensure reliability:
 Accuracy (Primary measure of efficiency).
 Precision & Recall.
 MSE (Mean Squared Error) & RMSE (Root Mean Square Error).
 
-⚠️ Challenges & Best Practices
+## ⚠️ Challenges & Best Practices
 The project acknowledges and addresses critical industry challenges:
 Security: Implementation of encryption, firewalls, and authentication to protect IoT networks.
 Data Privacy: Compliance with legal and ethical regulations such as GDPR.
